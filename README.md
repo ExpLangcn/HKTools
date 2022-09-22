@@ -2,6 +2,10 @@
 一款辅助安全研发在日常工作中渗透测试、安全研究、安全开发等工作的工具！
 程序支持Yaml格式的http请求模版
 
+## 演示视频
+
+[BliBli](https://www.bilibili.com/video/BV13N4y1K7eE)
+
 ## 漏洞模版
 
 **漏洞模版采用yaml格式，文件名后缀也为yaml.**
